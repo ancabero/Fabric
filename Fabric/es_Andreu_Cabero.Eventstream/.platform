@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventstream",
+    "displayName": "es_Andreu_Cabero"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a91d0c26-400e-a154-455c-06db01d9c017"
+  }
+}
