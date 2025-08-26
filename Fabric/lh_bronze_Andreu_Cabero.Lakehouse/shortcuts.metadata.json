@@ -1,0 +1,26 @@
+[
+  {
+    "name": "tempmin",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/tempmin",
+        "itemId": "3c52f4d4-b730-4de3-ae6d-1d88885b8a50",
+        "workspaceId": "e5519653-f31f-4aae-845a-205314db4626"
+      }
+    }
+  },
+  {
+    "name": "tempmax",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/tempmax",
+        "itemId": "3c52f4d4-b730-4de3-ae6d-1d88885b8a50",
+        "workspaceId": "e5519653-f31f-4aae-845a-205314db4626"
+      }
+    }
+  }
+]

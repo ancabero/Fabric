@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "lh_bronze_Andreu_Cabero"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bc918125-a4c0-bf6d-42cf-6d4f8a624db2"
+  }
+}
